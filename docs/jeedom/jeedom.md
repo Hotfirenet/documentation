@@ -6,3 +6,8 @@ has_children: true
 permalink: /docs/jeedom
 ---
 
+# Jeedom
+{: .no_toc }
+
+Jeedom est une solution de domotique moderne, développé en PHP, HTML5 il utilise toutes les nouvelles technologies du moment.
+{: .fs-6 .fw-300 }
