@@ -8,7 +8,7 @@ nav_order: 1
 # Grocy
 {: .no_toc }
 
-## Table of contents
+## Sommaire
 {: .no_toc .text-delta }
 
 1. TOC
