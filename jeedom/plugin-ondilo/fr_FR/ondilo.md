@@ -28,5 +28,6 @@ L'installation du plugin se fait depuis l'interface gestion des plugins et / ou 
 
 Dans un premier temps vous devez vous authentifier à votre compte Ondilo depuis la page de configuration.
 
+{% include lightbox.html src="jeedom/plugin-ondilo/images/authentification-a-api-ondilo.png" data="ondilo" title="Authentification à l'api Ondilo" imgstyle="width:550px;display: block;margin: 0 auto;" %}
 
 ---
