@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jeedom
-nav_order: 1
+title: Wordpress
+nav_order: 2
 has_children: true
-permalink: /docs/jeedom
+permalink: /docs/wordpress
 ---

@@ -35,7 +35,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Le site":
+  "Le blog":
     - "//hotfirenet.com"
 
 # Footer content appears at the bottom of every page's main content
