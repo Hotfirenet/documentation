@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Ondilo
+description: Les flotteurs de la gamme Ico conçus par la société Ondilo sont des capteurs Wifi qui permettent l'analyse de votre piscine ou de votre SPA.
 parent: Jeedom
+nav_order: 4
 has_children: true
 ---
 
