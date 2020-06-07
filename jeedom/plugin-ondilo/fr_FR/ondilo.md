@@ -27,13 +27,13 @@ L'installation du plugin se fait depuis l'interface gestion des plugins et / ou 
 
 Dans un premier temps vous devez vous authentifier à votre compte Ondilo depuis la page de configuration.
 
-{% include lightbox.html src="jeedom/plugin-ondilo/images/authentification-a-api-ondilo.png" data="ondilo" title="Authentification à l'api Ondilo" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/authentification-a-api-ondilo.png" data="ondilo" title="Authentification à l'api Ondilo" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 Une nouvelle page va s'ouvrir, vous devez renseigner vos identifiants. (Pas de craintes vous êtes sur le site d'ondilo le fabriquant de l'ICO. Le plugin ne sauvegarde aucun ni login, ni mot de passe).
 
 **ATTENTION** le choix de la langue est important, car les recommandations seront dans la langue sélectionnée.
 
-{% include lightbox.html src="ondilo/images/authentification-ondilo.png" data="ondilo" title="Authentification à l'api Ondilo" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/authentification-ondilo.png" data="ondilo" title="Authentification à l'api Ondilo" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 Une fois connecté, vous revenez sur une page blanche. Vous pouvez fermer celle-ci et recharger votre page de configuration.
 
@@ -41,23 +41,23 @@ Une fois connecté, vous revenez sur une page blanche. Vous pouvez fermer celle-
 
 Vous pouvez choisir d'utiliser la tuile personnalisé ou les widgets natifs à jeedom. A vous de choisir en cochant cette option.
 
-{% include lightbox.html src="ondilo/images/activer-widget-custom.png" data="ondilo" title="Activation widget personnalisé" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/activer-widget-custom.png" data="ondilo" title="Activation widget personnalisé" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 Ce qui donnera:
 
 > Widget Natif
 
-{% include lightbox.html src="ondilo/images/standard-ondilo-widget-jeedom.png" data="ondilo" title="Widget Natif" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/standard-ondilo-widget-jeedom.png" data="ondilo" title="Widget Natif" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 > Widget (Tuile) personnalisé
 
-{% include lightbox.html src="ondilo/images/custom-ondilo-widget-jeedom.png" data="ondilo" title="Widget Natif" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/custom-ondilo-widget-jeedom.png" data="ondilo" title="Widget Natif" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 ### Activation des recommandations
 
 Il est possible de ne pas récupérer les recommandations proposées par Ondilo en ne cochant pas cette option.
 
-{% include lightbox.html src="ondilo/images/ondilo-activer-les-recommandations.png" data="ondilo" title="Activer ou désactiver les recommandations" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/ondilo-activer-les-recommandations.png" data="ondilo" title="Activer ou désactiver les recommandations" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 ---
 
@@ -65,7 +65,7 @@ Il est possible de ne pas récupérer les recommandations proposées par Ondilo 
 
 Il est possible d'avoir plusieurs ilots ICO.
 
-{% include lightbox.html src="ondilo/images/synchronisation-jeedom-ondilo-ico.png" data="ondilo" title="Synchronisation des ilots" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/synchronisation-jeedom-ondilo-ico.png" data="ondilo" title="Synchronisation des ilots" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 ### Les équipements
 
@@ -85,13 +85,13 @@ Un îlot ICO est un équipement dans Jeedom, ainsi, il dispose de commande type 
 
 Un équipement dispose d'un paramètre permettant d'indiquer le niveau de batterie. Vous pouvez retrouver l'info sur le widget ou dans la partie: Analyse > Equipements : exemple [https://jeedom.local/index.php?v=d&p=eqAnalyse](https://jeedom.local/index.php?v=d&p=eqAnalyse)
 
-{% include lightbox.html src="ondilo/images/ondilo-battery.png" data="ondilo" title="Analyse des équipements, niveau de batterie" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/ondilo-battery.png" data="ondilo" title="Analyse des équipements, niveau de batterie" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 #### Les recommandations
 
 Les recommandations sont visibles dans le centre de message:
 
-{% include lightbox.html src="ondilo/images/centre-de-message-jeedom-recommandations-ondilo.png" data="ondilo" title="Synchronisation des ilots" imgstyle="width:550px;display: block;margin: 0 auto;" %}
+{% include lightbox.html src="jeedom/plugin-ondilo/images/centre-de-message-jeedom-recommandations-ondilo.png" data="ondilo" title="Synchronisation des ilots" imgstyle="width:100%;display: block;margin: 0 auto;" %}
 
 Pour le moment les recommandations proposées par l'api de Ondilo se résume au type **Waiting**, c'est à dire celles qui demandent une validations de votre part.
 
