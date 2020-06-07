@@ -2,10 +2,10 @@
 layout: default
 title: Plugin Ondilo - ICO
 parent: jeedom
-nav_order: 1
+nav_order: 4
 ---
 
-# Plugin Ondilo - ICO pour Jeedom
+# Plugin Ondilo - ICO
 {: .no_toc }
 
 ## Sommaire
@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-# Présentation des ilots connectés ICO de la société Ondilo
+## Présentation des ilots connectés ICO de la société Ondilo
 
 Todo
 
