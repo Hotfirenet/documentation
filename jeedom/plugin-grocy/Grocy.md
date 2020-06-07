@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Plugin Grocy
+title: Grocy
 parent: Jeedom
-nav_order: 1
+nav_order: 2
+has_children: true
 ---
 
-# Grocy
+# Grocy Parent
 {: .no_toc }
 
 ## Sommaire
@@ -16,6 +17,6 @@ nav_order: 1
 
 ---
 
-## Grocy
+## Grocy Parent
 
 ### Links that look like buttons
