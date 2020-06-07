@@ -2,7 +2,6 @@
 layout: default
 title: Ondilo
 parent: Jeedom
-nav_order: 2
 has_children: true
 ---
 
