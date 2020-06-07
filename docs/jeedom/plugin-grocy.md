@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grocy
+title: Plugin Grocy
 parent: Jeedom
 nav_order: 1
 ---
