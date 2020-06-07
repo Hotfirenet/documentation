@@ -3,7 +3,7 @@ layout: default
 title: Changelog
 parent: Grocy
 grand_parent: Jeedom
-nav_order: 1
+nav_order: 2
 ---
 
 # Ondilo - ICO - Plugin pour Jeedom

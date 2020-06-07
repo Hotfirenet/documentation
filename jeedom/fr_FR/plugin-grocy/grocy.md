@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Grocy
-parent: Jeedom
-nav_order: 2
-has_children: true
+title: Grocy test
+parent: Grocy
+grand_parent: Jeedom
+nav_order: 1
 ---
 
-# Grocy Parent
+# Grocy
 {: .no_toc }
 
 ## Sommaire
@@ -17,6 +17,6 @@ has_children: true
 
 ---
 
-## Grocy Parent
+## Grocy
 
 ### Links that look like buttons
