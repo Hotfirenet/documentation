@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grocy
-parent: jeedom
+parent: Jeedom
 nav_order: 1
 ---
 

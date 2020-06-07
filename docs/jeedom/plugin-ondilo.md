@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plugin Ondilo
-parent: jeedom
+parent: Jeedom
 nav_order: 2
 ---
 
