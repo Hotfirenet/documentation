@@ -2,7 +2,7 @@
 layout: default
 title: Plugin Ondilo - ICO
 parent: jeedom
-nav_order: 4
+nav_order: 2
 ---
 
 # Plugin Ondilo - ICO
