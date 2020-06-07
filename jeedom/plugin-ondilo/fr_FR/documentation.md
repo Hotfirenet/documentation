@@ -24,7 +24,7 @@ L'installation du plugin se fait depuis l'interface gestion des plugins et / ou 
 
 ---
 
-## Configuration du plugian Ondilo - ICO
+## Configuration du plugin Ondilo - ICO
 
 Dans un premier temps vous devez vous authentifier à votre compte Ondilo depuis la page de configuration.
 
