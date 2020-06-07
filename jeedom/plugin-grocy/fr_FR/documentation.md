@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Documentation Grocy
+title: Documentation
 description: Plugin Grocy pour le système domotique Jeedom. Grocy est un ERP permettant la gestion de stock de vos aliments et de vos tâches ménagères. Le système Grocy est open source est auto-hébergé. 
+nav_order: 1
 parent: Grocy
 grand_parent: Jeedom
 ---

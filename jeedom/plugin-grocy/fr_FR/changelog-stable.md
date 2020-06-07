@@ -2,6 +2,7 @@
 layout: default
 title: Changelog Stable
 description: Changelog de la version stable du plugin Grocy pour Jeedom. 
+nav_order: 1
 parent: Grocy
 grand_parent: Jeedom
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Grocy
 parent: Jeedom
+nav_order: 3
 has_children: true
 ---
 
