@@ -17,3 +17,4 @@ nav_order: 3
 - Suppression des seuils mini et maxi pour les commandes orp, tds, ph, salt et tmp,
 - Optimisations du code pour les methodes lastMeasures et recommendations,
 - Ajout de la synchro des recommandations lorsqu'une decouverte de piscine est faite.
+- Bugfix custom widget, seulement pour les types piscines ou spa
